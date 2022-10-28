@@ -6,8 +6,8 @@ A ideia aqui é desenvolver a linguagem fazendo algo divertido.
 
 ## TODO
 
-[ ] Soma entre polinomios
-[ ] Subtração entre polinomios
-[ ] Implementar o esqueleto da classe de funções genéricas
-[ ] Implementar testes para as funções genéricas
-[ ] Implementar a classe de funções genéricas
+- [ ] Soma entre polinomios
+- [ ] Subtração entre polinomios
+- [ ] Implementar o esqueleto da classe de funções genéricas
+- [ ] Implementar testes para as funções genéricas
+- [ ] Implementar a classe de funções genéricas
